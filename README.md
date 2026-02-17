@@ -38,7 +38,7 @@
   - Calculus BC: 4 (AB Subscore: 4)
   - Physics C: Mechanics: 3
   - Physics C: Electricity & Magnetism: 3
-  - AP Scholar Award for 3+ scores on 3+ exams 
+  - AP Scholar Award for 3+ scores on 3+ exams
 - **Standardized Tests**:
   - ACT Composite: 32/36
   - ACT International Subject Test - Biology: 36/36
